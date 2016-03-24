@@ -9,6 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "big-integer": "^1.6.12",
+    "nanotimer": "^0.3.14",
     "node-bruteforce": "^1.1.0",
     "sha1": "^1.1.1"
   },
