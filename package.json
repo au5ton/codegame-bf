@@ -1,11 +1,19 @@
 {
   "name": "codegame-bf",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code game brute force",
   "main": "app.js",
   "scripts": {
     "test": "node app.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "node-bruteforce": "^1.1.0",
+    "sha1": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/au5ton/codegame-bf.git"
+  }
 }
